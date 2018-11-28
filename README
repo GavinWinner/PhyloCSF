@@ -31,7 +31,7 @@ shell environment by running: eval $(opam config env)
 
 [2] Install dependencies using OPAM
 
-opam install batteries ocaml+twt gsl
+opam install batteries ocaml-twt gsl
 
 The gsl package may require you to separately install the GNU Scientific
 Library (GSL) from: http://www.gnu.org/software/gsl/
